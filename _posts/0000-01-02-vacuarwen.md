@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-“To be, or not to be, that is the question” By William Shakespeare from Hamlet
+Keep Calm and Slide!
 Use the left arrow to go back!
