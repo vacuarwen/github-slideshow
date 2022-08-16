@@ -7,7 +7,7 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-You can report a vulnerability via my Email address which is provided in my profile
+You can report a vulnerability via my Email address which is provided on my profile
 
 -------------
 
